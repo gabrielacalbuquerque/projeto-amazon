@@ -5,7 +5,7 @@
 
 Este projeto, intitulado **"Projeto 4 - DataLab Amazon"**, teve como objetivo principal **analisar o impacto do desconto na satisfação do cliente**, identificar padrões nas avaliações de produtos e destacar os fatores que influenciam a satisfação, fornecendo insights acionáveis para otimizar o desempenho na plataforma.
 
-**Equipe:** Gabriela, Socorro, Gemini
+**Equipe:** Gabriela, Gemini
 
 ## 💾 Conjunto de Dados
 
